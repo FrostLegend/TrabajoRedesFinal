@@ -291,6 +291,16 @@ img {
 
 .Centrar {
   margin-left: 25%;
+  width: 40%;
+}
+.Centrar-monitor {
+  margin-left: 10%;
+  width: 500px;
+}
+
+.Centrar-policy{
+  margin-left: 20%;
+  width: 300px;
 }
 
 .Centrar-right {
@@ -301,6 +311,8 @@ img {
 .Centrar-left {
   float: left;
   margin-left: 15px;
+  width: 100px;
+
 }
 
 img:hover {
